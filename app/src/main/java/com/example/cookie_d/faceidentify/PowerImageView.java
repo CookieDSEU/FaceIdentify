@@ -17,6 +17,7 @@ import java.lang.reflect.Field;
 
 /**
  * Created by Cookie_D on 2016/5/6.
+ * 本类实现了一个可以播放GIF的ImageView
  */
 public class PowerImageView extends ImageView implements View.OnClickListener {
 
