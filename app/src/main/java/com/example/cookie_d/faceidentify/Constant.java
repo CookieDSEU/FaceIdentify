@@ -5,5 +5,5 @@ package com.example.cookie_d.faceidentify;
  */
 public class Constant {
     public static final String KEY = "47736504ed3558a974b61d63b8d20969";
-    public static final String SECRET = "3UG06RWH0JaTYc2pRZ50YZQg1dwOdg0d";
+    public static final String SECRET = "3UG06RWH0JaTYc2pRZ50YZQg1dwOdg0d";//Face++提供的KEY和SECRET
 }
